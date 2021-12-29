@@ -10,7 +10,7 @@
     This is a Image Scraper For Pinterset.com I Have Made This For Scraping Proflie Pictures
     <br />
     <br />
-    <a href="https://github.com/Paradisx/Cinema-Scraper/issuess">Report Bug</a>
+    <a href="https://github.com/Paradisx/Cinema-Scraper/issues">Report Bug</a>
     ·
     <a href="https://github.com/Paradisx/Cinema-Scraper/issues">Request Feature</a>
   </p>
