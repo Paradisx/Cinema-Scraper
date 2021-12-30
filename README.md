@@ -5,7 +5,7 @@
   </a>
 
   <h2 align="center">
-    <img src="**https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&size=22&lines=Discord+Mass+DM;Don't+forget+to+leave+a+star;Only+for+educational+purposes;Join+guilded.gg/hoemotion**;"/>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=23&center=true&vCenter=true&lines=Image+Scraper;Don't+Forget+To+Leave+A+Star"/>
   </h2>
 
   <p align="center">
